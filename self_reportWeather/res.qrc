@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>weathercondition/baoyu.png</file>
+        <file>weathercondition/bingbao.png</file>
+        <file>weathercondition/close.png</file>
+        <file>weathercondition/dalei.png</file>
+        <file>weathercondition/duoyun (1).png</file>
+        <file>weathercondition/duoyun.png</file>
+        <file>weathercondition/duoyunn.png</file>
+        <file>weathercondition/fengxiang (2).png</file>
+        <file>weathercondition/kongqizhiliang.png</file>
+        <file>weathercondition/leizhenyuzhuanduoyun.png</file>
+        <file>weathercondition/leizhenyuzhuanqing.png</file>
+        <file>weathercondition/PM2.5.png</file>
+        <file>weathercondition/qing2.png</file>
+        <file>weathercondition/qingtian.png</file>
+        <file>weathercondition/qingzhuanduoyun.png</file>
+        <file>weathercondition/search(1).png</file>
+        <file>weathercondition/search.png</file>
+        <file>weathercondition/shidu.png</file>
+        <file>weathercondition/shuye.png</file>
+        <file>weathercondition/tedabaoyu.png</file>
+        <file>weathercondition/tianqi.png</file>
+        <file>weathercondition/wind.png</file>
+        <file>weathercondition/xiaoyu.png</file>
+        <file>weathercondition/xiaxue.png</file>
+        <file>weathercondition/xiayu.png</file>
+        <file>weathercondition/yin.png</file>
+        <file>weathercondition/yinzhuanduoyun.png</file>
+        <file>weathercondition/zhenyuzhuanqing.png</file>
+        <file>weathercondition/zhenyuzhuanxiaoyu.png</file>
+    </qresource>
+</RCC>
